@@ -1,0 +1,41 @@
+body{
+    background-color: #483D8B;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    display: inline-block;
+}
+
+h1{
+    font-size: 9rem;
+    font-family: satisfy;
+    color: aqua;
+}
+
+.d1 p{
+    font-size: 3rem;
+    font-family: Satisfy;
+    margin-right: 40px;
+    color: coral;
+}
+.d2 p{
+    font-size: 3rem;
+    font-family: Satisfy;
+    color: aquamarine;
+}
+
+footer{
+    font-size: 1rem;
+    color: wheat;
+    text-align: center;
+}
+
+img{
+    width: 55%;
+}
